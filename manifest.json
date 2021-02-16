@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Obisis Gano Calculator",
+    "version": "1.1",
+    "description": "Obisis Gano Calculator",
+    "icons": {
+        "128": "128.png"
+        },
+    "permissions": ["declarativeContent", "storage"],
+    "content_scripts": [
+        {
+            "js": ["content.js"],
+            "css": ["styles.css"],
+            "matches": ["https://obisis.erciyes.edu.tr/*","https://obisis2.erciyes.edu.tr/*"]
+        }
+    ]
+}
