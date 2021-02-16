@@ -1,7 +1,7 @@
 <h1 align="center">Obisis Gano Calculator</h1>
 
 ## Download
-
+<a href='https://github.com/hamitaksln/obisis-gano-calculator/raw/main/build/obisis-gano-calculator.crx'> Download obisis-gano-calculator chrome extension
 
 
 ## Description
