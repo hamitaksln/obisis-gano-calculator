@@ -73,6 +73,11 @@ gano_container_div.innerHTML = `<div><span>Gano</span>
 <span class="gano-count">3.00</span></div>`;
 document.querySelector("body").appendChild(gano_container_div);
 
+about_container_div = document.createElement("div");
+about_container_div.classList.add("about-container");
+about_container_div.innerHTML = `<span>Abdulhamit Akaslan - hamtaksln@gmail.com</span>`;
+document.querySelector("body").appendChild(about_container_div);
+
 lesson_status_td.appendChild(lesson_status_btn);
 lesson_status_td.appendChild(gano_calculator_btn);
 

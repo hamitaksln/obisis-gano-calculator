@@ -55,3 +55,13 @@ a.btn:hover {
     padding:1rem;
     border-radius: 6px;
 }
+
+.about-container{
+    font-size: 0.5rem;
+    font-family: Verdana, Helvetica, sans-serif;
+    background:#000033;
+    color: #fff;
+    position: fixed; right: 10px; bottom: 20px;
+    padding:0.5rem;
+    border-radius: 6px;
+}
