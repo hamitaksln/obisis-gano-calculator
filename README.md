@@ -1,8 +1,12 @@
 <h1 align="center">Obisis Gano Calculator</h1>
 
 ## Download
-<a href='https://github.com/hamitaksln/obisis-gano-calculator/raw/main/build/obisis-gano-calculator.crx'> Download obisis-gano-calculator chrome extension
-
+<p align="center">
+  </br></br>
+  <a href="https://chrome.google.com/webstore/detail/obisis-gano-calculator/bacebgmhldoedeobhcfpkiamifkggpcb/">
+    <img src="https://i.imgur.com/B0i5sn3.png" alt="Chrome Web Store"></a>
+  </br></br>
+</p>
 
 ## Description
 Obisis Gano Calculator is an chrome extension that re-calculates Erciyes University GPA with selected success score.
